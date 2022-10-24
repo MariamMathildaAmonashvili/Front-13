@@ -16,7 +16,7 @@ let myAge = currentYear - yearOfBirth
 console.log (myAge)
 
 const text1 = "Hello, my name is " + myName + ",";
-const text2 = "I was born in " + birthDate + " " + birthDay + " " + birthDate  + " ,"  ; 
+const text2 = "I was born in " + birthDate + " " + birthDay + " " + yearOfBirth  + " ,"  ; 
 const text3 = " currently I live in " + myCity  + ",";
 const text4 = " my hobby is" + " "  + myHobby ;  
 
